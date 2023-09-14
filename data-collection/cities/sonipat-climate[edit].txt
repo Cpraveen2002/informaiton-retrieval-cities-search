@@ -1,0 +1,4 @@
+sonipat
+Climate[edit]
+climate[edit]
+climate data for sonipat   month  jan  feb  mar  apr  may  jun  jul  aug  sep  oct  nov  dec  year   average high °c (°f)  21(70)  24(75)  30(86)  37(99)  40(104)  38(100)  35(95)  34(93)  34(93)  33(91)  28(82)  22(72)  31(88)   average low °c (°f)  8(46)  11(52)  16(61)  22(72)  27(81)  28(82)  28(82)  27(81)  26(79)  21(70)  14(57)  9(48)  20(68)   average rainfall mm (inches)  19.7(0.78)  24.6(0.97)  24.6(0.97)  10.1(0.40)  40.7(1.60)  96.9(3.81)  190(7.5)  201(7.9)  134.3(5.29)  12(0.5)  4(0.2)  10(0.4)  767.9(30.32)   average relative humidity (%)  66  58  47  32  35  53  68  71  66  55  51  63  55   source: http://www.myweather2.com
